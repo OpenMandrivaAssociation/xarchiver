@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   xarchiver-0.5.3.tar.bz2: 92cb74720e49e83b97c762a637b44b3db44be4cf
+sources:
+  xarchiver-0.5.4.tar.bz2: 4a02a6f77b03be72065f19dd98db1fa5325d3bb6
