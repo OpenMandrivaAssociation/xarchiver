@@ -1,7 +1,7 @@
 Summary:	A lightweight archiving/compression tool
 Name:		xarchiver
-Version:	0.5.4
-Release:	3
+Version:	0.5.4.14
+Release:	1
 License:	GPLv2
 Group:		Archiving/Compression
 URL:		http://xarchiver.xfce.org
@@ -49,6 +49,7 @@ desktop-file-install \
 
 %files -f %{name}.lang
 %{_bindir}/%{name}
+%{_mandir}/man1/xarchiver.1.*
 %{_docdir}/%{name}/*
 %{_datadir}/applications/*.desktop
 %{_libexecdir}/thunar-archive-plugin/xarchiver.tap
