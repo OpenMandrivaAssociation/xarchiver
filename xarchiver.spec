@@ -5,7 +5,7 @@ Release:	3
 License:	GPLv2
 Group:		Archiving/Compression
 URL:		http://xarchiver.xfce.org
-Source0:	http://downloads.sourceforge.net/xarchiver/%{name}-%{version}.tar.bz2
+Source0:	https://github.com/ib/xarchiver/archive/%{version}.tar.gz
 BuildRequires:	pkgconfig(gtk+-2.0)
 BuildRequires:	desktop-file-utils
 Requires(post):	desktop-file-utils
