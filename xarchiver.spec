@@ -1,6 +1,6 @@
 Summary:	A lightweight archiving/compression tool
 Name:		xarchiver
-Version:	0.5.4.16
+Version:	0.5.4.17
 Release:	1
 License:	GPLv2
 Group:		Archiving/Compression
