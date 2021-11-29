@@ -1,7 +1,7 @@
 Summary:	A lightweight archiving/compression tool
 Name:		xarchiver
 Version:	0.5.4.17
-Release:	2
+Release:	3
 License:	GPLv2
 Group:		Archiving/Compression
 URL:		http://xarchiver.xfce.org
@@ -15,6 +15,7 @@ BuildRequires:  xsltproc
 Requires(post):	desktop-file-utils
 Requires(postun): desktop-file-utils
 #Requires:	binutils
+Requires:	gnutar
 Requires:	unzip
 Requires:	zip
 Recommends:	arj
