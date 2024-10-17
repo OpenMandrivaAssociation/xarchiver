@@ -4,7 +4,7 @@ Version:	0.5.4.23
 Release:	1
 License:	GPLv2
 Group:		Archiving/Compression
-URL:		http://xarchiver.xfce.org
+URL:		https://xarchiver.xfce.org
 Source0:	https://github.com/ib/xarchiver/archive/%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires:  intltool
