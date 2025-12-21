@@ -7,6 +7,11 @@ Group:		Archiving/Compression
 URL:		https://xarchiver.xfce.org
 Source0:	https://github.com/ib/xarchiver/archive/%{version}/%{name}-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  intltool
 BuildRequires:	pkgconfig(gtk+-3.0)
 BuildRequires:	desktop-file-utils
